@@ -1,6 +1,6 @@
 # Daily Development Log
 
-This file records small, legitimate maintenance updates to keep the repository current.
+This file records small, legitimate maintenance updates to keep the repository current. Each entry should name the artifact reviewed or changed and summarize the outcome so repository maintenance remains auditable.
 
 ## 2026-09-06
 - Initialized the daily development log.
@@ -20,3 +20,6 @@ This file records small, legitimate maintenance updates to keep the repository c
 
 ## 2026-10-17
 - Audited the maintenance log chronology and confirmed entries remain concise, date-labelled, and non-duplicative for easier repository review.
+
+## 2026-10-21
+- Clarified the log's entry standard so future maintenance notes identify the artifact changed and the outcome, improving traceability during repository reviews.
